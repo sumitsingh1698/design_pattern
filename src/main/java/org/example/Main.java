@@ -12,6 +12,8 @@ public class Main {
         Vehicle sport400Bike = new Sport400Bike();
         Vehicle sport350Bike = new Sport350Bike();
 
+        Vehicle sport350Bike1 = new Sport350Bike();
+
 
         sport400Bike.drive();
         sport600Bike.drive();
